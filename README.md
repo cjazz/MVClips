@@ -1,10 +1,6 @@
 # MVClips
-
-___ 
 ## Application for Streaming Music Related Videos
 ![](MVClips.gif)
-
- 
 ###
 - Demonstrates Adaptible UI across devices
 - Videos will be streamed from Amazon S3, and possibly others
