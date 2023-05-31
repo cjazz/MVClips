@@ -1,8 +1,8 @@
 # MVClips
- ![](MVClips.gif)
+
 ___ 
 ## Application for Streaming Music Related Videos
-
+![](MVClips.gif)
 
  
 ###
